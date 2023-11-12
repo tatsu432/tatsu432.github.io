@@ -20,7 +20,7 @@ redirect_from:
 * 2020年4月~2024年3月　[早稲田大学](https://www.waseda.jp/top/)[政治経済学部経済学科](https://www.waseda.jp/fpse/pse/)
   * GPA [3.96/4.00](../files/Waseda_Transcript.pdf)
   * 履修授業：因果推論、機械学習、線形代数、多変数解析、データベース（SQL）、論理学、統計学、データサイエンス、ゲーム理論、ネットワーク技術、C/C++プログラミング
-* 2022年8月~2023年5月　イェール大学　[交換留学](https://yvisp.yale.edu/)
+* 2022年8月~2023年5月　[イェール大学](https://www.yale.edu/)　[交換留学](https://yvisp.yale.edu/)
   * GPA [3.95/4.00](../files/Yale_Transcript.pdf)
   * 履修授業：上級因果推論、強化学習の理論、自然言語処理、確率的機械学習、ベクトル解析、多様体状の積分、離散数学、常・偏微分方程式、データ構造
 
@@ -28,8 +28,8 @@ redirect_from:
 * 2023年6月~2024年8月　[株式会社半熟仮想](https://initial.inc/companies/A-37304)　機械学習研究インターン
 * 2023年6月~2024年8月　[株式会社サイバーエージェント　AI Lab](https://cyberagent.ai/ailab/)　機械学習研究インターン
 * 2022年8月　[早稲田大学政治経済学部]((https://www.waseda.jp/fpse/pse/))　経済学研究（因果推論）ティーチングアシスタント
-* 2022年8月　[株式会社クロスキャット](https://www.xcat.co.jp/ja/index.html)　ハッカソン型データサイエンスインターン
-* 2021年9月　[株式会社ADKマーケティングソリューションズ](https://www.adkms.jp/)　データ分析インターン
+* 2022年8月　[株式会社クロスキャット](https://www.xcat.co.jp/ja/index.html)　[ハッカソン型データサイエンスインターン](https://www.jiji.com/jc/article?k=000000132.000025288&g=prt)
+* 2021年9月　[株式会社ADKマーケティングソリューションズ](https://www.adkms.jp/)　[データ分析インターン](https://www.adk.jp/recruit/internship/summer/index_data.html)
 * 2021年8月　[株式会社マイナビ](https://www.mynavi.jp/)　ソフトウェアエンジニアインターン
 
 
@@ -51,7 +51,7 @@ redirect_from:
 
 
 ### 補助金
-* 2023年10月　早稲田大学　[政治経済学部](https://www.waseda.jp/fpse/pse/)　[大学院生等派海外遣助成制度](https://waseda-research-portal.jp/international/graduate-student/)
+* 2023年10月　[早稲田大学](https://www.waseda.jp/top/)　[政治経済学部](https://www.waseda.jp/fpse/pse/)　[大学院生等派海外遣助成制度](https://waseda-research-portal.jp/international/graduate-student/)
 * 2023年10月　[IEEE 計算機知能学会　学会参加補助金](https://attend.ieee.org/ssci-2023/travel-grants/)
 
 ### 資格
