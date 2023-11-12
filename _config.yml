@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Tatsuhiro Shimizu/ Tatsuhiro Shimizu Website"
+locale                   : "Tokyo, Japan"
+title                    : "Tatsuhiro Shimizu"
 title_separator          : "-"
 name                     : &name "Tatsuhiro Shimizu"
 description              : &description "I am a student at Waseda University."
