@@ -9,6 +9,6 @@ paperurl: 'http://academicpages.github.io/files/BDCM.pdf'
 citation: 'Shimizu, Tatsuhiro. (2023). &quot;Diffusion Model in Causal Inference with Unmeasured Confounders.&quot; <i>in Proceedings of 2023 IEEE Symposium Series On Computational Intelligence</i>.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/MDR.pdf)
+[Download paper here](http://academicpages.github.io/files/BDCM.pdf)
 
 Recommended citation: Shimizu, Tatsuhiro. (2023). "Diffusion Model in Causal Inference with Unmeasured Confounders" <i>in Proceedings of 2023 IEEE Symposium Series On Computational Intelligence</i>.
