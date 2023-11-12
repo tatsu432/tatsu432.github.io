@@ -23,6 +23,7 @@ redirect_from:
 * 2022年8月~2023年5月　[イェール大学](https://www.yale.edu/)　[交換留学](https://yvisp.yale.edu/)
   * GPA [3.95/4.00](../files/Yale_Transcript.pdf)
   * 履修授業：上級因果推論、強化学習の理論、自然言語処理、確率的機械学習、ベクトル解析、多様体状の積分、離散数学、常・偏微分方程式、データ構造
+* 2017年4月~2020年3月　私立[栄東高等学校](https://www.sakaehigashi.ed.jp/)
 
 ### 職歴
 * 2023年6月~2024年8月　[株式会社半熟仮想](https://initial.inc/companies/A-37304)　機械学習研究インターン
