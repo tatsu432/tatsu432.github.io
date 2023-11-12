@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<iframe src="../files/CV.pdf></iframe>
-
 <!-- 
 Education
 ======
