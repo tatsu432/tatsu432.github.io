@@ -38,13 +38,13 @@ redirect_from:
 2.  [「未観測の変数が存在するもとでの拡散モデルを用いた因果推論」](../files/BDCM.pdf)清水龍廣、[2023 IEEE Symposium Series on Computational Intelligence](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
 ### 賞
-* 2023年7月　[早稲田大学](https://www.waseda.jp/top/)　[大隈記念奨学金受給](https://www.waseda.jp/inst/scholarship/aid/programs/other/)
+* 2023年7月　[早稲田大学](https://www.waseda.jp/top/)　[大隈記念奨学金](https://www.waseda.jp/inst/scholarship/aid/programs/other/)受給
   * 政治経済学部内トップ一位の成績
-* 2023年5月　イェール大学　[優秀者期末報告](https://poorvucenter.yale.edu/teaching/teaching-how/chapter-7-teaching-yale-college/grading-and-other-academic-issues)
+* 2023年5月　[イェール大学](https://www.yale.edu/)　[優秀者期末報告](https://poorvucenter.yale.edu/teaching/teaching-how/chapter-7-teaching-yale-college/grading-and-other-academic-issues)
   * 上級因果推論の大学院の授業で一位
-* 2022年7月　[早稲田大学](https://www.waseda.jp/top/)　[大隈記念奨学金受給](https://www.waseda.jp/inst/scholarship/aid/programs/other/)
+* 2022年7月　[早稲田大学](https://www.waseda.jp/top/)　[大隈記念奨学金](https://www.waseda.jp/inst/scholarship/aid/programs/other/)受給
   * 政治経済学部内トップ一位の成績
-* 2022年3月　[早稲田大学](https://www.waseda.jp/top/)　[政治経済学部](https://www.waseda.jp/fpse/pse/)　[学部長奨励賞受賞](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)
+* 2022年3月　[早稲田大学](https://www.waseda.jp/top/)　[政治経済学部](https://www.waseda.jp/fpse/pse/)　[学部長奨励賞](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)受賞
   * 政治経済学部内トップ一位の成績
 * 2021年9月　[早稲田の栄光奨学金](https://www.waseda.jp/inst/cie/from-waseda/aid/scholarship)受給
  * イェール大学留学のための奨学金
