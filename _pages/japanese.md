@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Japanese"
+title: "日本語"
 permalink: /japanese/
 author_profile: true
 redirect_from:
