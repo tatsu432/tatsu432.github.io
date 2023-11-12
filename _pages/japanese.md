@@ -33,3 +33,7 @@ redirect_from:
 * 2021年8月　株式会社マイナビ　ソフトウェアエンジニアインターン
 
 
+### 出版物
+1. 「大規模行動空間のもとでのオフ方策評価のための二重頑健推定量」清水龍廣、フォラスティエレ・ローラ、2023 IEEE Symposium Series on Computational Intelligence、 arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
+2.  「未観測の変数が存在するもとでの拡散モデルを用いた因果推論」清水龍廣、2023 IEEE Symposium Series on Computational Intelligence、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
+
