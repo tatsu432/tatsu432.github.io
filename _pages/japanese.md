@@ -63,9 +63,13 @@ redirect_from:
 * 2023年9月~2024年8月　[IEEE](https://www.ieee.org/)
 * 2023年9月~2024年8月　[IEEE　計算機知能学会](https://cis.ieee.org/)
 
+
 ### 言語
 * 日本語（母国語）
 * 英語　([IELTS](https://ielts.org/) Academic Overall 7.5)
+
+### ボランティア活動
+* 2023年5月~2024年3月 [早稲田大学](https://www.waseda.jp/top/)　[学生留学アドバイザー](https://www.waseda.jp/inst/cie/from-waseda/advisor)
 
 ### 趣味
 * けん玉
