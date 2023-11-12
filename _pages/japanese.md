@@ -15,6 +15,16 @@ redirect_from:
 興味ある研究分野は因果推論、機械学習、自然言語処理です。
 データをもとに現象の因果関係を推論し、その結果に基づいて、最適な意思決定を行うことに興味があります。
 
+### 研究興味
+* 理論
+  * 因果推論
+  * 機械学習（生成モデル）
+  * 自然言語処理（大規模言語モデル、エンコーダーデコーダーモデル）
+  * 強化学習（オフライン方策評価、オフライン方策学習、オンライン学習）
+* 応用領域
+  * 推薦システム
+  * 個別化医療
+  * EBPM
 
 ### 学歴
 * 2020年4月~2024年3月　[早稲田大学](https://www.waseda.jp/top/)[政治経済学部経済学科](https://www.waseda.jp/fpse/pse/)
@@ -100,4 +110,3 @@ redirect_from:
       * [グレープフルーツティー](https://teapond.jp/collections/fruitstea/products/4405)
       * [マンゴーティー](https://teapond.jp/collections/fruitstea/products/4407)
     * [LUPICIA](https://www.lupicia.com/)
-    
