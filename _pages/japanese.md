@@ -69,11 +69,11 @@ redirect_from:
 
 ### 趣味
 * けん玉
- * 日本けん玉協会　けん玉検定五段を獲得しています
- * YouTubeにけん玉の動画を投稿し、新しい技を身につけるモチベーションとしています
+ * [日本けん玉協会](https://kendama.or.jp/)　[けん玉検定五段](https://kendama.or.jp/tricks/advanced_tricks/)を獲得しています
+ * [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)で、けん玉の動画を投稿し、新しい技を身につけるモチベーションとしています
 * ランニング
  * 毎日ランニングをしています
- * 中学の頃は、味の素スタジアムで渋谷区代表の第２区として駅伝に参加していました
+ * 中学の頃は、味の素スタジアムで渋谷区代表の第２区として[東京駅伝大会](https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)に参加していました
 * バスケットボール
  * 中学校三年間バスケ部に所属していました
 * サッカーボール
