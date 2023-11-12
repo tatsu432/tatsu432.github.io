@@ -37,3 +37,16 @@ redirect_from:
 1. 「大規模行動空間のもとでのオフ方策評価のための二重頑健推定量」清水龍廣、フォラスティエレ・ローラ、2023 IEEE Symposium Series on Computational Intelligence、 arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
 2.  「未観測の変数が存在するもとでの拡散モデルを用いた因果推論」清水龍廣、2023 IEEE Symposium Series on Computational Intelligence、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
+### 賞
+* 2023年7月　早稲田大学　大隈記念奨学金受給
+* 2023年5月　イェール大学　期末報告
+* 2022年7月　早稲田大学　大隈記念奨学金受給
+* 2022年3月　早稲田大学　政治経済学部　学部長奨励賞受賞
+* 2021年9月　早稲田の栄光奨学金受給
+
+
+### 補助金
+* 2023年10月　早稲田大学　政治経済学部　大学院生等派海外遣助成制度
+* 2023年10月　IEEE 計算機知能学会　学会参加補助金
+
+
