@@ -187,6 +187,9 @@ collections:
   talks:
     output: false
     permalink: /:collection/:path/
+  japanese:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -225,7 +228,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
       comments: true
   # _portfolio
   - scope:
@@ -242,6 +245,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _japanese
+  - scope:
+      path: ""
+      type: japanese
+    values:
+      layout: single
       author_profile: true
       share: true
 
