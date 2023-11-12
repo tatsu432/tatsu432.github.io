@@ -80,7 +80,7 @@ redirect_from:
   * 中学の頃は、味の素スタジアムで渋谷区代表の第２区として[東京駅伝大会](https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)に参加していました
 * 映画鑑賞
   * [Good Will Hunting](https://filmarks.com/movies/29792)
-  * [All is well 3 idiots](https://filmarks.com/movies/53954)
+  * [All is Well 3 idiots](https://filmarks.com/movies/53954)
   * [CODA](https://filmarks.com/movies/96257)
   * [The Greatest Showman](https://filmarks.com/movies/60905)
 * バスケットボール
