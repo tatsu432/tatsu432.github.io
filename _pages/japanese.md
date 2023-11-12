@@ -73,18 +73,31 @@ redirect_from:
 * 英語　([IELTS](https://ielts.org/) Academic Overall 7.5)
 
 ### 趣味
-* けん玉
-  * [日本けん玉協会](https://kendama.or.jp/)　[けん玉検定五段](https://kendama.or.jp/tricks/advanced_tricks/)を獲得しています
-  * [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)で、けん玉の動画を投稿し、新しい技を身につけるモチベーションとしています
-* ランニング
-  * 毎日ランニングをしています
-  * 中学の頃は、味の素スタジアムで渋谷区代表の第２区として[東京駅伝大会](https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)に参加していました
+* スポーツ
+  * けん玉
+    * [日本けん玉協会](https://kendama.or.jp/)　[けん玉検定五段](https://kendama.or.jp/tricks/advanced_tricks/)を獲得しています
+    * [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)で、けん玉の動画を投稿し、新しい技を身につけるモチベーションとしています
+  * ランニング
+    * 毎日ランニングをしています
+    * 中学の頃は、味の素スタジアムで渋谷区代表の第２区として[東京駅伝大会](https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)に参加していました
+  * バスケットボール
+    * 中学校三年間バスケ部に所属していました
+  * サッカーボール
+    * 小学生の頃１ヶ月だけサッカーのクラブチームに所属していました
 * 映画鑑賞
   * [Good Will Hunting](https://filmarks.com/movies/29792)
   * [All is Well 3 idiots](https://filmarks.com/movies/53954)
   * [CODA](https://filmarks.com/movies/96257)
   * [The Greatest Showman](https://filmarks.com/movies/60905)
-* バスケットボール
-  * 中学校三年間バスケ部に所属していました
-* サッカーボール
-  * 小学生の頃１ヶ月だけサッカーのクラブチームに所属していました
+* 飲み物
+  * コーヒー
+    * [早稲田大学](https://www.waseda.jp/top/)近くの[早苗](https://waseda-sanae.com/)のコーヒーをいつも飲んでいます
+    * [JCQA](https://kentei.jcqa.org/committee.html) [コーヒーインストラクター検定](https://kentei.jcqa.org/) [２級](https://kentei.jcqa.org/about.html#gaiyo2)を持っています
+  * 紅茶
+    * [Tea Pond](https://teapond.jp/)
+      * [アッサムティー](https://teapond.jp/collections/cafeinoff/products/1902)
+      * [ダージリンティー](https://teapond.jp/collections/cafeinoff/products/1903)
+      * [グレープフルーツティー](https://teapond.jp/collections/fruitstea/products/4405)
+      * [マンゴーティー](https://teapond.jp/collections/fruitstea/products/4407)
+    * [LUPICIA](https://www.lupicia.com/)
+    
