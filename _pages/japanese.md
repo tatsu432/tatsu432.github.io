@@ -49,8 +49,8 @@ redirect_from:
 
 
 ### 出版物
-1. [「大規模行動空間のもとでのオフ方策評価のための二重頑健推定量」](../files/MDR.pdf)清水龍廣、[フォラスティエレ・ローラ](https://ysph.yale.edu/profile/laura-forastiere/)、[2023 IEEE Symposium Series on Computational Intelligence](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
-2.  [「未観測の変数が存在するもとでの拡散モデルを用いた因果推論」](../files/BDCM.pdf)清水龍廣、[2023 IEEE Symposium Series on Computational Intelligence](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
+1. [「大規模行動空間のもとでのオフ方策評価のための二重頑健推定量」](../files/MDR.pdf)清水龍廣、[フォラスティエレ・ローラ](https://ysph.yale.edu/profile/laura-forastiere/)、[_2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
+2.  [「未観測の変数が存在するもとでの拡散モデルを用いた因果推論」](../files/BDCM.pdf)清水龍廣、[_2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
 ### 賞
 * 2023年7月　[早稲田大学](https://www.waseda.jp/top/)　[大隈記念奨学金](https://www.waseda.jp/inst/scholarship/aid/programs/other/)受給

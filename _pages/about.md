@@ -62,7 +62,7 @@ Waseda University in 2023
 * Jul 2022 [Waseda University](https://www.waseda.jp/top/) [Okuma Memorial Scholarship](https://www.waseda.jp/inst/scholarship/aid/programs/other/)
   * Ranked top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
 Waseda University in 2022
-* Mar 2022 [Waseda University](https://www.waseda.jp/top/) [School of Political Science and Economics](https://www.waseda.jp/fpse/pse/)　[Dean's Scholars Award](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)
+* Mar 2022 [Waseda University](https://www.waseda.jp/top/) [School of Political Science and Economics](https://www.waseda.jp/fpse/pse/) [Dean's Scholars Award](https://www.waseda.jp/fpse/pse/news/2022/04/01/15279/)
   * Ranked top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
 Waseda University in 2022
 * Sep 2021 [The Glory of Waseda Scholarship](https://www.waseda.jp/inst/cie/from-waseda/aid/scholarship)
@@ -74,7 +74,7 @@ Waseda University in 2022
 * Oct 2023 [IEEE CIS Conference Travel Grant](https://attend.ieee.org/ssci-2023/travel-grants/)
 
 ### Certifications
-* Mar 2022 [Japan Statistical Society Certificate Grade Pre-1](https://www.toukei-kentei.jp/exam/grade1semi/)　[pass with credit](https://static.toukei-kentei.jp/wp-content/uploads/20220905172033/cbt_exc202201-06_grade7-20220905172033-20220905172033.pdf)
+* Mar 2022 [Japan Statistical Society Certificate Grade Pre-1](https://www.toukei-kentei.jp/exam/grade1semi/) [pass with credit](https://static.toukei-kentei.jp/wp-content/uploads/20220905172033/cbt_exc202201-06_grade7-20220905172033-20220905172033.pdf)
 * May 2021 [AtCoder Brown Coder](https://www.abc033.contest.atcoder.jp/users/Tatsuhiroo)
 
 ### Membership
@@ -83,7 +83,7 @@ Waseda University in 2022
 
 ### Volunteering 
 * Sep 2023 [2023 IEEE Symposium Series on Computational Intelligence](https://attend.ieee.org/ssci-2023/) Reviewer
-* May 2023~Mar 2024 [Waseda University](https://www.waseda.jp/top/)　[Studying Abroad Adviser](https://www.waseda.jp/inst/cie/from-waseda/advisor)
+* May 2023~Mar 2024 [Waseda University](https://www.waseda.jp/top/) [Studying Abroad Adviser](https://www.waseda.jp/inst/cie/from-waseda/advisor)
 
 
 ### Language
