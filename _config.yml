@@ -116,7 +116,7 @@ author:
   youtube          : # "TatsuhiroKendama"
   wikipedia        :
 
-
+ 
 # Reading Files
 include:
   - .htaccess
