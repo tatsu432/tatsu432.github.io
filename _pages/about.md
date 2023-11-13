@@ -41,12 +41,12 @@ My research area lies in Causal Inference, Machine Learning. I am interested in 
 * April 2017~March 2020 [Sakaehigashi High School](https://www.sakaehigashi.ed.jp/)
 
 ### Work Experience
-* June 2023~August 2024 [Hanjuku Kaso, Inc.](https://initial.inc/companies/A-37304)　Macine Learning Research Intern
-* June 2023~August 2024 [CyberAgent, Inc. AI Lab](https://cyberagent.ai/ailab/)　Macine Learning Research Intern
+* June 2023~August 2024 [Hanjuku Kaso, Inc.](https://initial.inc/companies/A-37304)　Machine Learning Research Intern
+* June 2023~August 2024 [CyberAgent, Inc. AI Lab](https://cyberagent.ai/ailab/)　Machine Learning Research Intern
 * August 2022 [Waseda University School of Political Science and Economics]((https://www.waseda.jp/fpse/pse/))　Causal Inference Teaching Assistant
 * August 2022 [XCat, Inc.](https://www.xcat.co.jp/ja/index.html)　[Data Science Intern](https://www.jiji.com/jc/article?k=000000132.000025288&g=prt)
 * September 2021 [ADK Marketing Solutions](https://www.adkms.jp/)　[Data Analysis Intern](https://www.adk.jp/recruit/internship/summer/index_data.html)
-* August 2021 [MyNavi, Inc.](https://www.mynavi.jp/)Software Engineer Intern
+* AugustI 2021 [MyNavi, Inc.](https://www.mynavi.jp/)Software Engineer Intern
 
 
 ### Publications
@@ -82,7 +82,7 @@ Waseda University in 2022
 * September 2023~August 2024 [IEEE Computational Intelligence Society](https://cis.ieee.org/)
 
 ### Volunteering 
-* September 2023 [2023 IEEE Symposium Series on Computational Intelligence](https://attend.ieee.org/ssci-2023/) Reviwer
+* September 2023 [2023 IEEE Symposium Series on Computational Intelligence](https://attend.ieee.org/ssci-2023/) Reviewer
 * May 2023~March 2024 [Waseda University](https://www.waseda.jp/top/)　[Studying Abroad Adviser](https://www.waseda.jp/inst/cie/from-waseda/advisor)
 
 
@@ -93,24 +93,24 @@ Waseda University in 2022
 ### Hobby
 * Sports
   * Kendama
-    * [日本けん玉協会](https://kendama.or.jp/) [けん玉検定五段](https://kendama.or.jp/tricks/advanced_tricks/)を獲得しています
-    * [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)で、けん玉の動画を投稿し、新しい技を身につけるモチベーションとしています
+    * I have a [Kendama-do 5-th dan](https://kendama.or.jp/tricks/advanced_tricks/)
+    * I post Kendama tricks on [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)
   * Running
-    * I run everyday
-    * 中学の頃は、味の素スタジアムで渋谷区代表の第２区として[東京駅伝大会](https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)に参加していました
+    * I run every day
+    * I participated in [Tokyo Ekiden]((https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)) as a second district at Ajinomoto Stadium when I was at a junior high school
   * Basketball
     * I was a member of a basketball team for three years at my junior high school
   * Soccer
-    * I was a member of a soccer club team for a month when I was an elementray school student
+    * I was a member of a soccer club team for a month when I was an elementary school student
 * Movies
   * [Good Will Hunting](https://filmarks.com/movies/29792)
-  * [All is Well 3 idiots](https://filmarks.com/movies/53954)
+  * [All is Well Three Idiots](https://filmarks.com/movies/53954)
   * [CODA](https://filmarks.com/movies/96257)
   * [The Greatest Showman](https://filmarks.com/movies/60905)
 * Beverage
   * Coffee
-    * [早稲田大学](https://www.waseda.jp/top/)近くの[早苗](https://waseda-sanae.com/)のコーヒーをいつも飲んでいます
-    * [JCQA](https://kentei.jcqa.org/committee.html) [コーヒーインストラクター検定](https://kentei.jcqa.org/) [２級](https://kentei.jcqa.org/about.html#gaiyo2)を持っています
+    * [Sanae](https://waseda-sanae.com/)
+    * I have a [JCQA](https://kentei.jcqa.org/committee.html) [Coffee Instructor Certificate](https://kentei.jcqa.org/) [Grade 2](https://kentei.jcqa.org/about.html#gaiyo2)
   * Tea
     * [Tea Pond](https://teapond.jp/)
       * [Assam Tea](https://teapond.jp/collections/cafeinoff/products/1902)
