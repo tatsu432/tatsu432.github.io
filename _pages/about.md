@@ -51,7 +51,7 @@ My research area lies in Causal Inference, Machine Learning. I am interested in 
 
 ### Publications
 1. Shimizu, T. and [Forastiere, L.](https://ysph.yale.edu/profile/laura-forastiere/) [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](../files/MDR.pdf). [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/). arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
-2.  Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf)[_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
+2.  Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf) [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
 ### Awards
 * Jul 2023 [Waseda University](https://www.waseda.jp/top/) [Okuma Memorial Scholarship](https://www.waseda.jp/inst/scholarship/aid/programs/other/)
