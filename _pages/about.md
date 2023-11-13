@@ -41,12 +41,12 @@ My research area lies in Causal Inference, Machine Learning. I am interested in 
 * Apr 2017~Mar 2020 [Sakaehigashi High School](https://www.sakaehigashi.ed.jp/)
 
 ### Work Experience
-* Jun 2023~Aug 2024 [Hanjuku Kaso, Inc.](https://initial.inc/companies/A-37304) Machine Learning Research Intern
-* Jun 2023~Aug 2024 [CyberAgent, Inc. AI Lab](https://cyberagent.ai/ailab/) Machine Learning Research Intern
-* Aug 2022 [Waseda University School of Political Science and Economics]((https://www.waseda.jp/fpse/pse/)) Causal Inference Teaching Assistant
-* Aug 2022 [XCat, Inc.](https://www.xcat.co.jp/ja/index.html) [Data Science Intern](https://www.jiji.com/jc/article?k=000000132.000025288&g=prt)
-* Sep 2021 [ADK Marketing Solutions](https://www.adkms.jp/) [Data Analysis Intern](https://www.adk.jp/recruit/internship/summer/index_data.html)
-* AugustI 2021 [MyNavi, Inc.](https://www.mynavi.jp/) Software Engineer Intern
+* Jun 2023~Aug 2024 [Hanjuku Kaso, Inc.](https://initial.inc/companies/A-37304) _Machine Learning Research Intern_
+* Jun 2023~Aug 2024 [CyberAgent, Inc. AI Lab](https://cyberagent.ai/ailab/) _Machine Learning Research Intern_
+* Aug 2022 [Waseda University School of Political Science and Economics]((https://www.waseda.jp/fpse/pse/)) _Causal Inference Teaching Assistant_
+* Aug 2022 [XCat, Inc.](https://www.xcat.co.jp/ja/index.html) [_Data Science Intern_](https://www.jiji.com/jc/article?k=000000132.000025288&g=prt)
+* Sep 2021 [ADK Marketing Solutions](https://www.adkms.jp/) [_Data Analysis Intern_](https://www.adk.jp/recruit/internship/summer/index_data.html)
+* AugustI 2021 [MyNavi, Inc.](https://www.mynavi.jp/) _Software Engineer Intern_
 
 
 ### Publications
