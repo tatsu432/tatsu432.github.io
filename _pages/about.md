@@ -11,9 +11,9 @@ redirect_from:
 
 {% include base_path %}
 
-Hi there! My name is Tatsuhiro Shimizu. I am a senior at Waseda University, working towards a Bachelor of Arts in Economics at the School of Political Science and Economics.
+Hi there! My name is Tatsuhiro Shimizu. In 2024, I graduated from Waseda University as valedictorian of the Department of Political Science and Economics. I work as a machine learning research intern at Hanjuku Kaso, Inc. and CyberAgent, Inc.
 
-My research area lies in Causal Inference, Machine Learning. I am interested in an algorithm to make a better decision based on data by inferring the causal relationship between variables.
+My research areas are Causal Inference and Machine Learning. I am interested in developing algorithms that help people make interpretable, fair, and better decisions.
 
 
 ### Research Interest
@@ -28,12 +28,12 @@ My research area lies in Causal Inference, Machine Learning. I am interested in 
       * Online Learning
 * Applied Area
   * Recommender System
-  * Personalized Medicine
+  * Precision Medicine
   * Evidence-based Policy Making
 
 ### Education
 * Apr 2020~Mar 2024 [Waseda University](https://www.waseda.jp/top/) [School of Political Science and Economics](https://www.waseda.jp/fpse/pse/)
-  * [GPA 3.96/4.00](../files/Waseda_Transcript.pdf)
+  * Valedictorian, [GPA 3.96/4.00](../files/Waseda_Transcript.pdf)
   * Relevant Coursework: Causal Inference, Machine Learning, Natural Language Processing, Reinforcement Learning, Vector Analysis, Integration on Manifolds, Discrete Mathematics, Differential Equations & Data Structures
 * Aug 2022~May 2023 [Yale-Visiting International Student Program](https://yvisp.yale.edu/)
   * [GPA 3.95/4.00](../files/Yale_Transcript.pdf)
@@ -110,6 +110,7 @@ Waseda University in 2022
 * Beverage
   * Coffee
     * [Sanae](https://waseda-sanae.com/)
+    * 
     * I have a [JCQA](https://kentei.jcqa.org/committee.html) [Coffee Instructor Certificate](https://kentei.jcqa.org/) [Grade 2](https://kentei.jcqa.org/about.html#gaiyo2)
   * Tea
     * [Tea Pond](https://teapond.jp/)
