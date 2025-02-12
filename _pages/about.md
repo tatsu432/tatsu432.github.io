@@ -48,7 +48,7 @@ I am a Master's student in Statistics and Data Science at Yale University.
 
 
 ### Publications
-1. Shimizu, T., Tanaka, K., Kishimoto, R., Kiyohara, H., Nomura, M., and Saito, Y. [Shimizu, Tatsuhiro, et al. "Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](../files/OPCB.pdf). [_in Shimizu, Tatsuhiro, et al. "Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits." Proceedings of the 18th ACM Conference on Recommender Systems_](https://recsys.acm.org/recsys24/). [https://arxiv.org/abs/2408.11202](https://arxiv.org/abs/2408.11202)
+1. Shimizu, T., Tanaka, K., Kishimoto, R., Kiyohara, H., Nomura, M., and Saito, Y. ["Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits."](../files/OPCB.pdf) [Proceedings of the 18th ACM Conference on Recommender Systems_](https://recsys.acm.org/recsys24/). [https://arxiv.org/abs/2408.11202](https://arxiv.org/abs/2408.11202)
 2. Shimizu, T. and [Forastiere, L.](https://ysph.yale.edu/profile/laura-forastiere/) [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](../files/MDR.pdf). [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/). arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
 3.  Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf) [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
