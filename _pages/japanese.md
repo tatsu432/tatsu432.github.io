@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: archive
 title: "日本語"
 permalink: /japanese/
@@ -111,4 +111,4 @@ redirect_from:
       * [ダージリンティー](https://teapond.jp/collections/cafeinoff/products/1903)
       * [グレープフルーツティー](https://teapond.jp/collections/fruitstea/products/4405)
       * [マンゴーティー](https://teapond.jp/collections/fruitstea/products/4407)
-    * [LUPICIA](https://www.lupicia.com/)
+    * [LUPICIA](https://www.lupicia.com/) -->

@@ -11,27 +11,25 @@ redirect_from:
 
 {% include base_path %}
 
-Hi there! My name is Tatsuhiro Shimizu. In 2024, I graduated from Waseda University as valedictorian of the Department of Political Science and Economics. I work as a machine learning research intern at Hanjuku Kaso, Inc. and CyberAgent, Inc.
-
-My research areas are Causal Inference and Machine Learning. I am interested in developing algorithms that help people make interpretable, fair, and better decisions.
-
+Hi there! My name is Tatsuhiro Shimizu. 
+I am a Master's student in Statistics and Data Science at Yale University.
 
 ### Research Interest
 * Theory
-  * Causal Inference
+  * Artificial General Intelligence
   * Machine Learning
-    * Natural Language Processing
-      * Large Language Model
+    * Large Language Models
     * Reinforcement Learning
-      * Off-Policy Evaluation
-      * Off-Policy Learning
-      * Online Learning
+  * Causal Inference
 * Applied Area
-  * Recommender System
   * Precision Medicine
-  * Evidence-based Policy Making
+  * Recommender Systems
+  * Personalized Education
 
 ### Education
+* Aug 2024~May 2026 [Yale University](https://yvisp.yale.edu/) [Department of Statistics and Data Science](https://statistics.yale.edu/)
+  * Recieved NSK Scholarship
+  * Relevant Coursework: Deep Learning, Applied Machine Learning, Optimization (Transformers theory), Causal Inference, Object-Oriented Programming
 * Apr 2020~Mar 2024 [Waseda University](https://www.waseda.jp/top/) [School of Political Science and Economics](https://www.waseda.jp/fpse/pse/)
   * Valedictorian, [GPA 3.96/4.00](../files/Waseda_Transcript.pdf)
   * Relevant Coursework: Causal Inference, Machine Learning, Natural Language Processing, Reinforcement Learning, Vector Analysis, Integration on Manifolds, Discrete Mathematics, Differential Equations & Data Structures
@@ -50,8 +48,9 @@ My research areas are Causal Inference and Machine Learning. I am interested in 
 
 
 ### Publications
-1. Shimizu, T. and [Forastiere, L.](https://ysph.yale.edu/profile/laura-forastiere/) [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](../files/MDR.pdf). [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/). arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
-2.  Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf) [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
+1. Shimizu, T., Tanaka, K., Kishimoto, R., Kiyohara, H., Nomura, M., and Saito, Y. [Shimizu, Tatsuhiro, et al. "Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](../files/OPCB.pdf). [_in Shimizu, Tatsuhiro, et al. "Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits." Proceedings of the 18th ACM Conference on Recommender Systems_](https://recsys.acm.org/recsys24/). [https://arxiv.org/abs/2408.11202](https://arxiv.org/abs/2408.11202)
+2. Shimizu, T. and [Forastiere, L.](https://ysph.yale.edu/profile/laura-forastiere/) [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](../files/MDR.pdf). [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/). arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
+3.  Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf) [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
 ### Awards
 * Jul 2023 [Waseda University](https://www.waseda.jp/top/) [Okuma Memorial Scholarship](https://www.waseda.jp/inst/scholarship/aid/programs/other/)
