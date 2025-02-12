@@ -109,7 +109,6 @@ Waseda University in 2022
 * Beverage
   * Coffee
     * [Sanae](https://waseda-sanae.com/)
-    * 
     * I have a [JCQA](https://kentei.jcqa.org/committee.html) [Coffee Instructor Certificate](https://kentei.jcqa.org/) [Grade 2](https://kentei.jcqa.org/about.html#gaiyo2)
   * Tea
     * [Tea Pond](https://teapond.jp/)
