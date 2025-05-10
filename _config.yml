@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Tatsuhiro Shimizu"
   avatar           : "selfie.png"
-  bio              : "Hi, I am interested in Causal Inference, Machine Learning, and Natural Language Processing"
-  location         : "Tokyo, Japan"
+  bio              : "Interested in machine learning and causal inference"
+  location         : "New Haven, CT"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.jp/citations?user=PSPLriMAAAAJ&hl=en"
