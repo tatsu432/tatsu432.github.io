@@ -16,11 +16,14 @@ I am a Master's student in Statistics and Data Science at Yale University.
 
 ### Research Interest
 * Theory
-  * Artificial General Intelligence
   * Machine Learning
+    * Foundation Models
     * Large Language Models
     * Reinforcement Learning
+    * Computer Vision
+    * Natural Language Processing
   * Causal Inference
+    * Observational Studies
 * Applied Area
   * Precision Medicine
   * Recommender Systems
@@ -28,6 +31,7 @@ I am a Master's student in Statistics and Data Science at Yale University.
 
 ### Education
 * Aug 2024~May 2026 [Yale University](https://yvisp.yale.edu/) [Department of Statistics and Data Science](https://statistics.yale.edu/)
+  * GPA 4.00/4.00
   * Recieved NSK Scholarship
   * Relevant Coursework: Deep Learning, Applied Machine Learning, Optimization (Transformers theory), Causal Inference, Object-Oriented Programming
 * Apr 2020~Mar 2024 [Waseda University](https://www.waseda.jp/top/) [School of Political Science and Economics](https://www.waseda.jp/fpse/pse/)

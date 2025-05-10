@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "Tokyo, Japan"
+locale                   : "New Haven, CT"
 title                    : "Tatsuhiro Shimizu"
 title_separator          : "-"
 name                     : &name "Tatsuhiro Shimizu"
-description              : &description "I am a student at Waseda University."
+description              : &description "I am a student at Yale University."
 url                      : https://tatsu432.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tatsu432/tatsu432.github.io"
