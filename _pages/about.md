@@ -30,7 +30,7 @@ I am a Master's student in Statistics and Data Science at Yale University.
   * Personalized Education
 
 ### Education
-* Aug 2024~May 2026 [Yale University](https://yvisp.yale.edu/) [Department of Statistics and Data Science](https://statistics.yale.edu/)
+* Aug 2024~Dec 2026 [Yale University](https://yvisp.yale.edu/) [Department of Statistics and Data Science](https://statistics.yale.edu/)
   * GPA 4.00/4.00
   * Recieved NSK Scholarship
   * Relevant Coursework: Deep Learning, Applied Machine Learning, Optimization (Transformers theory), Causal Inference, Object-Oriented Programming
@@ -40,7 +40,6 @@ I am a Master's student in Statistics and Data Science at Yale University.
 * Aug 2022~May 2023 [Yale-Visiting International Student Program](https://yvisp.yale.edu/)
   * [GPA 3.95/4.00](../files/Yale_Transcript.pdf)
   * Relevant Coursework: Causal Inference, Machine Learning, Linear Algebra, Multivariable Analysis, Database, Logic, Statistics, Data Science, Game Theory, Networking Technology & C/C++ Programming
-* Apr 2017~Mar 2020 [Sakaehigashi High School](https://www.sakaehigashi.ed.jp/)
 
 ### Work Experience
 * Jun 2023~Aug 2024 [Hanjuku Kaso, Inc.](https://initial.inc/companies/A-37304) _Machine Learning Research Intern_
@@ -52,9 +51,10 @@ I am a Master's student in Statistics and Data Science at Yale University.
 
 
 ### Publications
-1. Shimizu, T., Tanaka, K., Kishimoto, R., Kiyohara, H., Nomura, M., and Saito, Y. ["Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits."](../files/OPCB.pdf) [Proceedings of the 18th ACM Conference on Recommender Systems_](https://recsys.acm.org/recsys24/). [https://arxiv.org/abs/2408.11202](https://arxiv.org/abs/2408.11202)
-2. Shimizu, T. and [Forastiere, L.](https://ysph.yale.edu/profile/laura-forastiere/) [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](../files/MDR.pdf). [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/). arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
-3.  Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf) [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
+* Shimizu, T., Kawamura, K., Muroi, T., Narita, Y., Tateno, K., Udagawa, T., and Saito, Y. "Off-Policy Evaluation and Learning for the Future under Non-Stationarity." [_Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1 (pp. 1256-1264)_](https://kdd2025.kdd.org/). [https://dl.acm.org/doi/abs/10.1145/3690624.3709237](https://dl.acm.org/doi/abs/10.1145/3690624.3709237)
+* Shimizu, T., Tanaka, K., Kishimoto, R., Kiyohara, H., Nomura, M., and Saito, Y. ["Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits."](../files/OPCB.pdf) [_Proceedings of the 18th ACM Conference on Recommender Systems_](https://recsys.acm.org/recsys24/). [https://arxiv.org/abs/2408.11202](https://arxiv.org/abs/2408.11202)
+* Shimizu, T. and [Forastiere, L.](https://ysph.yale.edu/profile/laura-forastiere/) [Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](../files/MDR.pdf). [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/). arXiv:2308.03443[stat.ML]. [https://arxiv.org/abs/2308.03443](https://arxiv.org/abs/2308.03443)
+* Shimizu, T. [Diffusion Model in Causal Inference with Unmeasured Confounders](../files/BDCM.pdf) [_in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence_](https://attend.ieee.org/ssci-2023/)、 arXiv:2308.03669 [cs.LG].[https://arxiv.org/abs/2308.03669](https://arxiv.org/abs/2308.03669)
 
 ### Awards
 * Jul 2023 [Waseda University](https://www.waseda.jp/top/) [Okuma Memorial Scholarship](https://www.waseda.jp/inst/scholarship/aid/programs/other/)
@@ -96,20 +96,14 @@ Waseda University in 2022
 ### Hobby
 * Sports
   * Kendama
-    * I have a [Kendama-do 5-th dan](https://kendama.or.jp/tricks/advanced_tricks/)
-    * I post Kendama tricks on [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)
+    * Achieved the [Kendama-do 5-th dan](https://kendama.or.jp/tricks/advanced_tricks/), the de-facto second most difficult title to achieve
+    * Posted Kendama tricks on [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)
   * Running
-    * I run every day
-    * I participated in [Tokyo Ekiden]((https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)) as a second district at Ajinomoto Stadium when I was at a junior high school
+    * Participated in [Tokyo Ekiden]((https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)) as a second district at Ajinomoto Stadium when I was at a middle school
   * Basketball
-    * I was a member of a basketball team for three years at my junior high school
+    * Was a member of a basketball team for three years at my middle school
   * Soccer
-    * I was a member of a soccer club team for a month when I was an elementary school student
-* Movies
-  * [Good Will Hunting](https://filmarks.com/movies/29792)
-  * [All is Well Three Idiots](https://filmarks.com/movies/53954)
-  * [CODA](https://filmarks.com/movies/96257)
-  * [The Greatest Showman](https://filmarks.com/movies/60905)
+    * Was a member of a soccer club team for a month when I was a primary school student
 * Beverage
   * Coffee
     * [Sanae](https://waseda-sanae.com/)
