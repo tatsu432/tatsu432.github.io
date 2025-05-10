@@ -38,8 +38,8 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/my-orcid?orcid=0009-0009-9746-3346"
   semantic         : "https://www.semanticscholar.org/author/Tatsuhiro-Shimizu/2227972958"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Tatsuhiro-Shimizu-3"
   scopus           : # URL
 
   # Repositories and software development
