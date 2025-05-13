@@ -32,7 +32,7 @@ I am a Master's student in Statistics and Data Science at Yale University.
 ### Education
 * **Yale University**, Department of Statistics and Data Science, Aug 2024~Dec 2026
   * **GPA 4.00/4.00**
-  * **Recieved NSK Scholarship (USD 70,000 per year)**
+  * **Received NSK Scholarship (USD 70,000 per year)**
   * Relevant Coursework: 
     * Deep Learning Theory and Applications
     * Causal Inference and Applied Machine Learning
@@ -64,7 +64,7 @@ I am a Master's student in Statistics and Data Science at Yale University.
     * Multivariable Analysis
     * Logic
     * Causal Inference
-    * Machine Learning and Econometics
+    * Machine Learning and Econometrics
     * Statistics
     * Data Science
     * Game Theory
@@ -81,23 +81,23 @@ I am a Master's student in Statistics and Data Science at Yale University.
 ### Publications
 * Shimizu, T., Kawamura, K., Muroi, T., Narita, Y., Tateno, K., Udagawa, T., and Saito, Y. **[Off-Policy Evaluation and Learning for the Future under Non-Stationarity](ttps://dl.acm.org/doi/abs/10.1145/3690624.3709237)**. Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V. 1 (pp. 1256-1264). 
 * Shimizu, T., Tanaka, K., Kishimoto, R., Kiyohara, H., Nomura, M., and Saito, Y. **[Effective Off-Policy Evaluation and Learning in Contextual Combinatorial Bandits](https://dl.acm.org/doi/abs/10.1145/3640457.3688099)**. Proceedings of the 18th ACM Conference on Recommender Systems.
-* Shimizu, T. and Forastiere, L. **[Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](https://ieeexplore.ieee.org/abstract/document/10372057)**. in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence.
-* Shimizu, T. **[Diffusion Model in Causal Inference with Unmeasured Confounders](https://ieeexplore.ieee.org/abstract/document/10372009)**. in Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence.
+* Shimizu, T. and Forastiere, L. **[Doubly Robust Estimator for Off-Policy Evaluation with Large Action Spaces](https://ieeexplore.ieee.org/abstract/document/10372057)**. Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence.
+* Shimizu, T. **[Diffusion Model in Causal Inference with Unmeasured Confounders](https://ieeexplore.ieee.org/abstract/document/10372009)**.  Proceedings of the 2023 IEEE Symposium Series on Computational Intelligence.
 
 ### Awards
 * 2023 Jul. Waseda University, Okuma Memorial Scholarship
-  * Ranked top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
+  * Ranked in the top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
 Waseda University in 2023
 * 2023 May. Yale University, [End of Term Report](https://poorvucenter.yale.edu/teaching/teaching-how/chapter-7-teaching-yale-college/grading-and-other-academic-issues)
   * Recognized as an exceptional work at the graduate seminar: Advanced Topics in Causal Inference Methods
 * 2022 Jul. Waseda University Okuma Memorial Scholarship
-  * Ranked top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
+  * Ranked in the top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
 Waseda University in 2022
 * 2022 Mar. Waseda University School of Political Science and Economics Dean's Scholars Award
-  * Ranked top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
+  * Ranked in the top 1 of approximately 863 students in terms of GPA at the School of Political Science and Economics at
 Waseda University in 2022
 * 2021 Sep. The Glory of Waseda Scholarship
-  * Scholarship for studying abroad program at Yale University
+  * Scholarship for the studying abroad program at Yale University
 
 
 ### Grants
@@ -122,10 +122,10 @@ Waseda University in 2022
 ### Hobby
 * Sports
   * Kendama
-    * Achieved the [Kendama-do 5-th dan](https://kendama.or.jp/tricks/advanced_tricks/), the de-facto second most difficult title to achieve
+    * Achieved the [Kendama-do 5th dan](https://kendama.or.jp/tricks/advanced_tricks/), the de facto second most difficult title to achieve
     * Posted Kendama tricks on [YouTube](https://www.youtube.com/channel/UCMJ2mmKDU7RDwqdCNU4pAuQ)
   * Running
-    * Participated in [Tokyo Ekiden]((https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)) as a 2nd district at Ajinomoto Stadium during my middle school as a representative of Shibuya ward
+    * Participated in [Tokyo Ekiden]((https://www.kyoiku.metro.tokyo.lg.jp/school/content/physical_training_and_club_activity/ekiden.html)) as a 2nd district at Ajinomoto Stadium during my middle school years as a representative of Shibuya ward
   * Basketball
     * A previous member of a basketball team for 3 years at my middle school
   * Soccer
