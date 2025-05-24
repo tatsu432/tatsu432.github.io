@@ -14,16 +14,15 @@ redirect_from:
 Hi there! My name is Tatsuhiro Shimizu. 
 I am a Master's student in Statistics and Data Science at Yale University.
 
-### Research Interest
-* Theory
-  * Machine Learning
-    * Foundation Models
-    * Large Language Models
-    * Reinforcement Learning
-    * Computer Vision
-    * Natural Language Processing
-  * Causal Inference
-    * Observational Studies
+### Interest
+* Machine Learning
+  * Foundation Models
+  * Large Language Models
+  * Reinforcement Learning
+  * Computer Vision
+  * Natural Language Processing
+* Causal Inference
+  * Observational Studies
 * Applied Area
   * Precision Medicine
   * Recommender Systems
